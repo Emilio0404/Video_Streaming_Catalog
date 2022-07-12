@@ -1,9 +1,7 @@
 # Video_Streaming_Catalog
 
-Project used to learn about OOP and reading files in C++
+School project used to learn about Oriented Object Programming in C++.
 
-This was the final project for one of my classes so it is in spanish.
+The project consist of reading movies and series from files and storing the data in objects. You can consult different information of the objects available through a simple command line program.
 
-The idea was to use objects to store informations about series and its episodes.
-
-Main file was used for the test cases. 
+**Note: **I study in Mexico so variables are in Spanish.
